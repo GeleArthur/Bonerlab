@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: OnlyOneWay_Spawnables
+  m_EditorClassIdentifier: 
+  m_GroupName: OnlyOneWay_Spawnables
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 51a9eaf4a263cd341a6bbc5b7b95fcae
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: fcfeba4f47404804eb521f7da1fd8b66, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 521f3e5ba0b3d4349bf7b1e0659ba884, type: 2}
+    - {fileID: 11400000, guid: d0303c2fb444a29418cd91d791efd7e5, type: 2}
+    - {fileID: 11400000, guid: bc9763022039b744c9d862d0727b99f5, type: 2}
