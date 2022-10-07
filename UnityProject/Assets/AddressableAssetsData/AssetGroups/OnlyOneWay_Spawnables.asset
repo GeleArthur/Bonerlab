@@ -15,10 +15,10 @@ MonoBehaviour:
   m_GroupName: OnlyOneWay_Spawnables
   m_Data:
     m_SerializedData: []
-  m_GUID: 51a9eaf4a263cd341a6bbc5b7b95fcae
+  m_GUID: cc5a04c4b38f140468c9c7c14466cfeb
   m_SerializeEntries: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: fcfeba4f47404804eb521f7da1fd8b66, type: 2}
+  m_Settings: {fileID: 11400000, guid: 36aeccad57346b24a8b601b82fce2e8a, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: 521f3e5ba0b3d4349bf7b1e0659ba884, type: 2}

@@ -15,10 +15,10 @@ MonoBehaviour:
   m_GroupName: OnlyOneWay_Avatars
   m_Data:
     m_SerializedData: []
-  m_GUID: 8af266420978d1640a2f276cfe2e8f7f
+  m_GUID: b7c4506b663ce1f47af889204c542847
   m_SerializeEntries: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: fcfeba4f47404804eb521f7da1fd8b66, type: 2}
+  m_Settings: {fileID: 11400000, guid: 36aeccad57346b24a8b601b82fce2e8a, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: 5327fa94e257b014791ffd5532ef3f26, type: 2}
