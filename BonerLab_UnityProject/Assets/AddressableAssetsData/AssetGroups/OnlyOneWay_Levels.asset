@@ -15,14 +15,14 @@ MonoBehaviour:
   m_GroupName: OnlyOneWay_Levels
   m_Data:
     m_SerializedData: []
-  m_GUID: 437138069a633b64d903f98f76a6aa91
+  m_GUID: 616a4144cebb21c45a15548fdb0be70c
   m_SerializeEntries:
   - m_GUID: 2c95a6f9261f07148b9d656f7e6d2ba3
     m_Address: Level/Level 1
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 36aeccad57346b24a8b601b82fce2e8a, type: 2}
+  m_Settings: {fileID: 11400000, guid: c19b6343704fefe4184e1deada18543e, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: d27c00abc9bed074392dd998d1483948, type: 2}

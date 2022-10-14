@@ -15,10 +15,10 @@ MonoBehaviour:
   m_GroupName: OnlyOneWay_VFXs
   m_Data:
     m_SerializedData: []
-  m_GUID: fac346391e8a1324d8da753371086e92
+  m_GUID: 15e77f6a35ff21241954d5bc68d57ea0
   m_SerializeEntries: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 36aeccad57346b24a8b601b82fce2e8a, type: 2}
+  m_Settings: {fileID: 11400000, guid: c19b6343704fefe4184e1deada18543e, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: 74d2a18d83c9bc24a93f8ca478e2e279, type: 2}

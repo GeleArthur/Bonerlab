@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
   m_Name: PalletAddressableAssetSettings
   m_EditorClassIdentifier: 
-  m_DefaultGroup: 3d36c655e01d0c74d80de00cc2d2f1b4
+  m_DefaultGroup: 727f47ccc301ed449b8b33adf9bbb042
   m_CachedHash:
     serializedVersion: 2
     Hash: 00000000000000000000000000000000

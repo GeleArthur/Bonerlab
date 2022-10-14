@@ -15,10 +15,18 @@ MonoBehaviour:
   m_GroupName: OnlyOneWay_Spawnables
   m_Data:
     m_SerializedData: []
-  m_GUID: cc5a04c4b38f140468c9c7c14466cfeb
-  m_SerializeEntries: []
+  m_GUID: 6df4b8815d711cf4b90cab75768cf64f
+  m_SerializeEntries:
+  - m_GUID: 34719f53b9e8e2b428d2e14d65b2f6b6
+    m_Address: Spawnable/IDK
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 062608aeb21b5e744aa039e1874ef1b9
+    m_Address: PreviewMesh/IDK
+    m_ReadOnly: 0
+    m_SerializedLabels: []
   m_ReadOnly: 0
-  m_Settings: {fileID: 11400000, guid: 36aeccad57346b24a8b601b82fce2e8a, type: 2}
+  m_Settings: {fileID: 11400000, guid: c19b6343704fefe4184e1deada18543e, type: 2}
   m_SchemaSet:
     m_Schemas:
     - {fileID: 11400000, guid: 521f3e5ba0b3d4349bf7b1e0659ba884, type: 2}
